@@ -10,6 +10,7 @@ Es muy importante invertirlos para que rinda.
 
 # ¿Que significa invertir?
 
+Intercambiar esos ahorros para comprar un bien especial, un activo financiero que puede generar un flujo de ingresos.
 
 # ¿Que es el mercado de capitales?
 
