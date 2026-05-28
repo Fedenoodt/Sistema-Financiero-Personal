@@ -2,6 +2,8 @@
 
 La estructura que busca financiar la inversión de las empresas trabajando su dinero.
 
+Es un ámbito con compradores y vendedores que buscan intercambiar bienes o servicios.
+
 # ¿Que es el ahorro?
 
 Es el medio para aplazar recursos para el consumo. 
