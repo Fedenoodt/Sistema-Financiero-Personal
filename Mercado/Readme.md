@@ -18,7 +18,8 @@ Baja si ganamos poco, alta si es mucho, nada si es nada.
 
 Reinvertir es, tomar esa rentabilidad y usarlos para hacer otra inversión.
 
-
+El costo de oportunidad es toda variable que pueda hacer más o menos costosa la entrada de la iversión.
+El tiempo de inversión es medíble en corto, mediano, o largo plazo dependiendo del perfil de inversor.
 ¿Que es el riesgo? Todas las variables que pueden hacer que la rentabilidad no sea exitosa.
 
 # ¿Que es el mercado de capitales?
