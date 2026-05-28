@@ -18,6 +18,9 @@ Baja si ganamos poco, alta si es mucho, nada si es nada.
 
 Reinvertir es, tomar esa rentabilidad y usarlos para hacer otra inversión.
 
+
+¿Que es el riesgo? Todas las variables que pueden hacer que la rentabilidad no sea exitosa.
+
 # ¿Que es el mercado de capitales?
 
 
