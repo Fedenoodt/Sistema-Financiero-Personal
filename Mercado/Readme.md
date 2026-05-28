@@ -41,5 +41,6 @@ Las licitaciones siempre se hacen al final, en el mercado primario.
 
 # ¿Para qué me sirve el mercado?
 
+Es el lugar donde puedo obtener financiamiento. Yo puedo elegir en que instrumento invertir.
 
 # ¿Como empiezo a ser inversor?
