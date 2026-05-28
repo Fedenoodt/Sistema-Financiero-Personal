@@ -44,3 +44,5 @@ Las licitaciones siempre se hacen al final, en el mercado primario.
 Es el lugar donde puedo obtener financiamiento. Yo puedo elegir en que instrumento invertir.
 
 # ¿Como empiezo a ser inversor?
+
+
