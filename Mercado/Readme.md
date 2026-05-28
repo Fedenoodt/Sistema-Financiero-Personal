@@ -5,6 +5,7 @@ La estructura que busca financiar la inversión de las empresas trabajando su di
 # ¿Que es el ahorro?
 
 Es el medio para aplazar recursos para el consumo. 
+Es un hábito importante para hacer crecer tu capital.
 
 # ¿Que significa invertir?
 
