@@ -32,6 +32,11 @@ Estos activos tienen que estar regulados por un agente autorizado para cuidar a 
 Uno provee recursos a un activo, y uno espera que esta dé esa rentabilidad.
 Para poder participar de regulador de este mercado se tiene que estar regulado por la comisión nacional de valores en Argentina. Los inversores también participan.
 
+La CNV tiene la responsabilidad de que todas las normas se cumplan
+
+El mercado primario es donde se opera comoo usuario comprando acciones a una empresa, que se va a devolver la rentabilidad exacta al usuario desde la CNV en caso que la empresa no cumpla.
+El mercado secundarioo es la transacción entre inversores.
+
 # ¿Para qué me sirve el mercado?
 
 
