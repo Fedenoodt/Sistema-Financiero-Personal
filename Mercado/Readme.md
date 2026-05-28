@@ -16,6 +16,8 @@ A su vez este activo financiero se ve afectado en rentabilidad por la inflación
 La rentabilidad es la ganancia que sale desde comprar un activo, hasta venderlo.
 Baja si ganamos poco, alta si es mucho, nada si es nada.
 
+Reinvertir es, tomar esa rentabilidad y usarlos para hacer otra inversión.
+
 # ¿Que es el mercado de capitales?
 
 
