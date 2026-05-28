@@ -14,6 +14,7 @@ Intercambiar esos ahorros para comprar un bien especial, un activo financiero qu
 
 A su vez este activo financiero se ve afectado en rentabilidad por la inflación.
 La rentabilidad es la ganancia que sale desde comprar un activo, hasta venderlo.
+Baja si ganamos poco, alta si es mucho, nada si es nada.
 
 # ¿Que es el mercado de capitales?
 
