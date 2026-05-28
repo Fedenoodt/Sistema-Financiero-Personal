@@ -12,6 +12,9 @@ Es muy importante invertirlos para que rinda.
 
 Intercambiar esos ahorros para comprar un bien especial, un activo financiero que puede generar un flujo de ingresos.
 
+A su vez este activo financiero se ve afectado en rentabilidad por la inflación.
+La rentabilidad es la ganancia que sale desde comprar un activo, hasta venderlo.
+
 # ¿Que es el mercado de capitales?
 
 
