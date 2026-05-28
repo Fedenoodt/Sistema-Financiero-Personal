@@ -29,6 +29,8 @@ El tiempo de inversión es medíble en corto, mediano, o largo plazo dependiendo
 Es el ámbito donde se ofrece una oferta pública de activos financieros.
 Estos activos tienen que estar regulados por un agente autorizado para cuidar a minotistas.
 
+Para poder participar de este mercado se tiene que estar regulado por la comisión nacional de valores en Argentina.
+
 # ¿Para qué me sirve el mercado?
 
 
