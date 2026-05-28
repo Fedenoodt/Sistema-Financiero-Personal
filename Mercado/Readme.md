@@ -6,6 +6,7 @@ La estructura que busca financiar la inversión de las empresas trabajando su di
 
 Es el medio para aplazar recursos para el consumo. 
 Es un hábito importante para hacer crecer tu capital.
+Es muy importante invertirlos para que rinda.
 
 # ¿Que significa invertir?
 
