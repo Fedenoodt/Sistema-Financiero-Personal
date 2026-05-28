@@ -45,4 +45,4 @@ Es el lugar donde puedo obtener financiamiento. Yo puedo elegir en que instrumen
 
 # ¿Como empiezo a ser inversor?
 
-
+Tengo que abrir la comitente, registrandoté vía app móvil, y tenés que hacer un perfil de inversor.
