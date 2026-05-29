@@ -34,7 +34,7 @@ Para poder participar de regulador de este mercado se tiene que estar regulado p
 
 La CNV tiene la responsabilidad de que todas las normas se cumplan
 
-El mercado primario es donde se opera comoo usuario comprando acciones a una empresa, que se va a devolver la rentabilidad exacta al usuario desde la CNV en caso que la empresa no cumpla.
+El mercado primario es donde se opera comoo usuario comprando acciones a una empresa.
 El mercado secundario es la transacción entre inversores.
 
 Las licitaciones siempre se hacen al final, en el mercado primario.
