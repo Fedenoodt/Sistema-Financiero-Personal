@@ -79,3 +79,6 @@ Renta variable: Invertir en una companía, siendo socio de sus activos
 
 Lo incierto es peor que lo malo, lo malo se puede arreglar, lo que no se sabe que va a pasar, es lo que destruye.
 
+Todo correlaciona a la media. Si te vá bien, seguí apostando, si te va mal, baja un cambio.
+
+Nunca inviertas desde la duda, invertí con confiuanza y expectativa.
