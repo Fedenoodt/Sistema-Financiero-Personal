@@ -91,3 +91,4 @@ Son activos financieros que no tienen un credito asegurado.
 
 # ¿Que es una acción?
 
+Un titulo de propiedad de una empresa que nos hace socios de esta al comprarlo.
