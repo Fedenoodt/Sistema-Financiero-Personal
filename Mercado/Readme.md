@@ -69,3 +69,5 @@ El costo de oportunidad del dinero (tasas de interés), es el flujo de caja entr
 Google Trends asiste mostrando ñas tendencias de las palabras más buscadas en google.
 
 Los más jóvenes tienen que tener más capital en renta variable, y menos en renta fija, y viceversa. Porque los jovenes tienen más oportunidad de volver a intentar.
+
+Hay que leer el mercado desde el consumo, para entender que la moda, es parte del mercado.
