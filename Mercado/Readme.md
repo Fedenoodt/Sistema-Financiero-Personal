@@ -56,3 +56,4 @@ Tengo que abrir la comitente, registrandoté vía app móvil, y tenés que hacer
 
 El mercado está fundamentado por confianza y expectativa, dos cosas que se ganancomo el respeto.
 
+Para empezar, conviene entenderse uno, en la experiencia práctica.
