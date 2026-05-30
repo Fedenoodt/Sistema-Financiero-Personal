@@ -82,3 +82,12 @@ Lo incierto es peor que lo malo, lo malo se puede arreglar, lo que no se sabe qu
 Todo correlaciona a la media. Si te vá bien, seguí apostando, si te va mal, baja un cambio.
 
 Nunca inviertas desde la duda, invertí con confiuanza y expectativa.
+
+30-05-2026-2
+
+# ¡Que es la renta variable? 
+
+Son activos financieros que no tienen un credito asegurado.
+
+# ¿Que es una acción?
+
