@@ -64,4 +64,4 @@ El riesgo surge en cuantoo comprar de algo, no en que comprar.
 
 Cuando las preguntas Cuando, donde, en que, y cuanto están resueltas, recien avanzamos.
 
-El costo de oportunidad del dinero (tasas de interés), 
+El costo de oportunidad del dinero (tasas de interés), es el flujo de caja entre el dinero que hay que poner para abrir un negocio, y el tiempo que voy a tardar en recibir su retorno.
