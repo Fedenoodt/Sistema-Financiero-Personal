@@ -59,3 +59,6 @@ El mercado está fundamentado por confianza y expectativa, dos cosas que se gana
 Para empezar, conviene entenderse uno, en la experiencia práctica.
 
 Hay que invertir cuando la tendencia arranque. Donde a uno le resulte más práctico. 
+
+El riesgo surge en cuantoo comprar de algo, no en que comprar.
+
