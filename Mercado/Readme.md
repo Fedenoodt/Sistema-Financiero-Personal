@@ -54,3 +54,5 @@ Tengo que abrir la comitente, registrandoté vía app móvil, y tenés que hacer
 
 30-05-2026
 
+El mercado está fundamentado por confianza y expectativa, dos cosas que se ganancomo el respeto.
+
