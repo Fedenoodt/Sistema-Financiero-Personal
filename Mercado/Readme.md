@@ -63,3 +63,5 @@ Hay que invertir cuando la tendencia arranque. Donde a uno le resulte más prác
 El riesgo surge en cuantoo comprar de algo, no en que comprar.
 
 Cuando las preguntas Cuando, donde, en que, y cuanto están resueltas, recien avanzamos.
+
+El costo de oportunidad del dinero (tasas de interés), 
