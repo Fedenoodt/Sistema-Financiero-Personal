@@ -71,3 +71,11 @@ Google Trends asiste mostrando ñas tendencias de las palabras más buscadas en 
 Los más jóvenes tienen que tener más capital en renta variable, y menos en renta fija, y viceversa. Porque los jovenes tienen más oportunidad de volver a intentar.
 
 Hay que leer el mercado desde el consumo, para entender que la moda, es parte del mercado.
+Otra recomendación es ir a asambleas. Conocer a el propósito de la empresa a la que invierto.
+Si no tenés, tenés que especular, si tenés poco, tenés que cuidarte, y si tenés mucho, tenés que diversificar y abrir tu mercado.
+
+Renta fija: Bonos del estado o un privado a riesgo del emisor.
+Renta variable: Invertir en una companía, siendo socio de sus activos
+
+Lo incierto es peor que lo malo, lo malo se puede arreglar, lo que no se sabe que va a pasar, es lo que destruye.
+
