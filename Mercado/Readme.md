@@ -105,3 +105,5 @@ El precio es a cuanto se negocia la Acción, dependiendo de la oferta y demanda,
 # ¿Que es un DEDEAR?
 
 Certificados de Depósito Argentinos que pueden comprar localmente en pesos, acciones que operan en modo internacional. Estás comprando algo que compra la accion. Alguien en el exterior la compra, y vos la pertenecés.
+
+ETF: Un fondo que cotiza en exterior. Una canasta de activos que puede representar a alguna organización externa.
