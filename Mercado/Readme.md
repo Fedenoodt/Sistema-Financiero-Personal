@@ -99,3 +99,5 @@ Valorización: Es la diferencia del precio de la accion comprada, y el patrimoni
 Dividendos: Ganancia por operaciones exitosas, repartida entre los accionistas, de la empresa.
 
 "El precio es lo que pagás, el valor es lo que obtenes." 
+
+El precio es a cuanto se negocia la Acción, dependiendo de la oferta y demanda, y el valor es una percepción subjetiva de lo que vale esa accion de la empresam y puede depender del resultado de esa empresa.
