@@ -107,3 +107,7 @@ El precio es a cuanto se negocia la Acción, dependiendo de la oferta y demanda,
 Certificados de Depósito Argentinos que pueden comprar localmente en pesos, acciones que operan en modo internacional. Estás comprando algo que compra la accion. Alguien en el exterior la compra, y vos la pertenecés.
 
 ETF: Un fondo que cotiza en exterior. Una canasta de activos que puede representar a alguna organización externa.
+
+Los CEDEARs pagan dividendos cuando la accióon subyacente aporta dividendos, en dólares.
+
+CEDEAR ofrece cobertura varía con el cambio contado con liqui, depende de cuanto vale el peso argentino la ganancia en dólar.
