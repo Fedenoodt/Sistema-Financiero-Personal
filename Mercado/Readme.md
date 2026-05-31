@@ -120,3 +120,4 @@ Son contratos a plazo que generan ciertos derechos y/o obligaciones  para compra
 Futuros: Un contrato en cual cierto comprador y vendedor de realizar en cierta fecha, a cierto precio.
 
 Al comprador se le otorga una garantía tangíble para que el vendedor cumpla, cuando este tambien tiene que cumplir con devolver dicho activo.
+Ambos están obligados a cumplir.
