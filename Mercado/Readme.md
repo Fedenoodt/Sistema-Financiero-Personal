@@ -111,3 +111,8 @@ ETF: Un fondo que cotiza en exterior. Una canasta de activos que puede represent
 Los CEDEARs pagan dividendos cuando la accióon subyacente aporta dividendos, en dólares.
 
 CEDEAR ofrece cobertura varía con el cambio contado con liqui, depende de cuanto vale el peso argentino la ganancia en dólar.
+Es confiable con las variables de compraventa.
+
+# ¿Que son los derivados?
+
+Son contratos a plazo que generan ciertos derechos y/o obligaciones  para comprar o vender activos en una fecha determinada a un preciuo pactado. 
