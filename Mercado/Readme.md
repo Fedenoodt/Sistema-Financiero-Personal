@@ -123,3 +123,5 @@ Al comprador se le otorga una garantía tangíble para que el vendedor cumpla, c
 Ambos están obligados a cumplir.
 
 Opcion: Es la misma fórmula de acuerdo, pero otorgan al comprador el derecho de comprar cierto activo subyacente, y el vendedor la obligación de darlo
+
+Call es la opción de compra, el derecho de comprar el activo subyacente en condiciones determinadas, y Put de dar derecho al vendedor a vender en esas condiciones determinadas.
