@@ -92,3 +92,10 @@ Son activos financieros que no tienen un credito asegurado.
 # ¿Que es una acción?
 
 Un titulo de propiedad de una empresa que nos hace socios de esta al comprarlo.
+
+# ¿Porqué invertir en acciones?
+
+Valorización: Es la diferencia del precio de la accion comprada, y el patrimonio de la acción sube m y el propio en consecuencia.
+Dividendos: Ganancia por operaciones exitosas, repartida entre los accionistas, de la empresa.
+
+"El precio es lo que pagás, el valor es lo que obtenes." 
