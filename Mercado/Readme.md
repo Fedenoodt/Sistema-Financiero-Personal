@@ -125,3 +125,7 @@ Ambos están obligados a cumplir.
 Opcion: Es la misma fórmula de acuerdo, pero otorgan al comprador el derecho de comprar cierto activo subyacente, y el vendedor la obligación de darlo
 
 Call es la opción de compra, el derecho de comprar el activo subyacente en condiciones determinadas, y Put de dar derecho al vendedor a vender en esas condiciones determinadas.
+
+Prima:precio que paga el comprador de la opción.
+Precio de ejercicio: precio páctado de la operación de compra o venta de la opción.
+Fecha de vencimiento: Indica la cantidad de tiempo de vida del instrumento. Hasta cuando es válido.
