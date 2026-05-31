@@ -104,28 +104,22 @@ El precio es a cuanto se negocia la Acción, dependiendo de la oferta y demanda,
 
 # ¿Que es un CEDEAR?
 
-Certificados de Depósito Argentinos que pueden comprar localmente en pesos, acciones que operan en modo internacional. Estás comprando algo que compra la accion. Alguien en el exterior la compra, y vos la pertenecés.
-
-ETF: Un fondo que cotiza en exterior. Una canasta de activos que puede representar a alguna organización externa.
+Certificados de Depósito Argentinos. Representan acciones de empresas extranjeras (Apple, Google, Tesla, etc.) que se pueden comprar en pesos en Argentina.  
+Es una forma de invertir en el exterior sin salir del país.
 
 Los CEDEARs pagan dividendos cuando la accióon subyacente aporta dividendos, en dólares.
 
 CEDEAR ofrece cobertura varía con el cambio contado con liqui, depende de cuanto vale el peso argentino la ganancia en dólar.
 Es confiable con las variables de compraventa.
 
-# ¿Que son los derivados?
+## ETF
+Fondos que cotizan en bolsa. Representan una canasta de activos (acciones, bonos, commodities, etc.). Ejemplo: un ETF que sigue al S&P 500.
 
-Son contratos a plazo que generan ciertos derechos y/o obligaciones  para comprar o vender activos en una fecha determinada a un preciuo pactado. 
+## Derivados
+Contratos financieros cuyo valor deriva de otro activo (acciones, dólar, commodities, etc.).
 
-Futuros: Un contrato en cual cierto comprador y vendedor de realizar en cierta fecha, a cierto precio.
-
-Al comprador se le otorga una garantía tangíble para que el vendedor cumpla, cuando este tambien tiene que cumplir con devolver dicho activo.
-Ambos están obligados a cumplir.
-
-Opcion: Es la misma fórmula de acuerdo, pero otorgan al comprador el derecho de comprar cierto activo subyacente, y el vendedor la obligación de darlo
-
-Call es la opción de compra, el derecho de comprar el activo subyacente en condiciones determinadas, y Put de dar derecho al vendedor a vender en esas condiciones determinadas.
-
-Prima:precio que paga el comprador de la opción.
-Precio de ejercicio: precio páctado de la operación de compra o venta de la opción.
-Fecha de vencimiento: Indica la cantidad de tiempo de vida del instrumento. Hasta cuando es válido.
+- **Futuros**: Contrato obligatorio de comprar/vender un activo en el futuro a un precio acordado hoy.
+- **Opciones**: Dan el **derecho** (no la obligación) de comprar o vender un activo en el futuro a un precio determinado.
+  - **Call**: Derecho a comprar.
+  - **Put**: Derecho a vender.
+- **Prima**: Precio que se paga por comprar la opción.
