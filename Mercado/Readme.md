@@ -101,3 +101,7 @@ Dividendos: Ganancia por operaciones exitosas, repartida entre los accionistas, 
 "El precio es lo que pagás, el valor es lo que obtenes." 
 
 El precio es a cuanto se negocia la Acción, dependiendo de la oferta y demanda, y el valor es una percepción subjetiva de lo que vale esa accion de la empresam y puede depender del resultado de esa empresa.
+
+# ¿Que es un DEDEAR?
+
+Certificados de Depósito Argentinos que pueden comprar localmente en pesos, acciones que operan en modo internacional. Estás comprando algo que compra la accion. Alguien en el exterior la compra, y vos la pertenecés.
