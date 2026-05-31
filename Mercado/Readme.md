@@ -102,7 +102,7 @@ Dividendos: Ganancia por operaciones exitosas, repartida entre los accionistas, 
 
 El precio es a cuanto se negocia la Acción, dependiendo de la oferta y demanda, y el valor es una percepción subjetiva de lo que vale esa accion de la empresam y puede depender del resultado de esa empresa.
 
-# ¿Que es un DEDEAR?
+# ¿Que es un CEDEAR?
 
 Certificados de Depósito Argentinos que pueden comprar localmente en pesos, acciones que operan en modo internacional. Estás comprando algo que compra la accion. Alguien en el exterior la compra, y vos la pertenecés.
 
@@ -116,3 +116,7 @@ Es confiable con las variables de compraventa.
 # ¿Que son los derivados?
 
 Son contratos a plazo que generan ciertos derechos y/o obligaciones  para comprar o vender activos en una fecha determinada a un preciuo pactado. 
+
+Futuros: Un contrato en cual cierto comprador y vendedor de realizar en cierta fecha, a cierto precio.
+
+Al comprador se le otorga una garantía tangíble para que el vendedor cumpla, cuando este tambien tiene que cumplir con devolver dicho activo.
