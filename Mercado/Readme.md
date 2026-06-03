@@ -151,3 +151,8 @@ Hay legislación que los regula.
 # ¿Porque renta fija?
 
 Alta certeza en los terminos, alta liquidez, buen flujo de pagos y monedas claras.
+
+El bono Bullet paga intereses y cotizavión.
+
+Bonos Cupon cero pagan solo al final, y se emiten con valor menor.
+
