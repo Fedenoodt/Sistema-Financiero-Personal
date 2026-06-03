@@ -12,6 +12,7 @@ Es el medio para aplazar recursos para el consumo.
 Es un hábito importante para hacer crecer tu capital.
 Es muy importante invertirlos para que rinda.
 
+BYMAdata tiene datos de inversión.
 # ¿Que significa invertir?
 
 Intercambiar esos ahorros para comprar un bien especial, un activo financiero que puede generar un flujo de ingresos.
