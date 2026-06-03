@@ -135,17 +135,17 @@ Son emisiones de deuda, ente privado o publico por financiar proyectos. Con prop
 
 la fija compro deuda a emisor de la deuda, y con acciones compro partecita de empresa.
 
-En renta variable hay menos riesgo.
+En renta variable hay más riesgo.
 
-En un plazo fijo se parece a la fija, pero tengl slgo de renfimiento y el plazo de tiempo.
+En un plazo fijo se parece a la fija, pero tengo algo de rendimiento y el plazo de tiempo.
 
 El bono tiene tres partes.
 
-valor nominal: ek rmisor quién pide esta plata.
+valor nominal: el rmisor quién pide esta plata.
 Cupón: lo que pagan.
-Plazo: cusnto van a tardar.
+Plazo: cuanto van a tardar.
 
-El bono se usa para declarar estas variables.
+El bono se usa para declarar este plazo que pide el emisor.
 
 Hay legislación que los regula.
 
@@ -153,7 +153,7 @@ Hay legislación que los regula.
 
 Alta certeza en los terminos, alta liquidez, buen flujo de pagos y monedas claras.
 
-El bono Bullet paga intereses y cotizavión.
+El bono Bullet paga intereses y cotización.
 
 Bonos Cupon cero pagan solo al final, y se emiten con valor menor.
 
@@ -161,9 +161,9 @@ Las condiciones de emisión son Bonos pesos, bono dolar linked (liqui), bono har
 
 # ¿Como participo?
 
-Adquirir el bonk al inicio.enttando en el mercado primario
+Adquirir el bono al inicio entrando en el mercado primario
 o 
-el mercadonsecundario comprando a un inversor.
+el mercado secundario comprando a un inversor.
 
 Dolar MEP es un bono que se compra en pesos y vende en dólares, y viceversa.
 # Caución
@@ -171,12 +171,13 @@ Instrumento de corto plazo para harantzar valores negociables (un prestamo parec
 
 Se usa como un bono, poniendo garantías negociables.
 
-Diferencias con plazos fijos
+Diferencias con plazos fijos de la caucion:
 
 Caucion solo hasta 120 días.
-Caucion tiene gaantias obligatorias. 
+Caucion tiene garantias obligatorias. 
 Caucion en mercado de capitales y plazo fijo en entidad bancaria.
 La tasa de interés del caucion se determina la tasa con poca oscilación.
 
 Caucion es ganancia fija, bajo riesgo y poco rentable, accesible, y liquidez y volumen.
-70% Caucion y 81% plazo fijo rendimientos anuales.
+
+A día de la fecha, los rendimientos anuales son 70% Caucion y 81% plazo fijo.
