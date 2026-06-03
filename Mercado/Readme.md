@@ -165,3 +165,4 @@ Adquirir el bonk al inicio.enttando en el mercado primario
 o 
 el mercadonsecundario comprando a un inversor.
 
+Dolar MEP es un bono que se compra en pesos y vende en dólares, y viceversa.
