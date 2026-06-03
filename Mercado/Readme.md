@@ -174,4 +174,9 @@ Se usa como un bono, poniendo garantías negociables.
 Diferencias con plazos fijos
 
 Caucion solo hasta 120 días.
+Caucion tiene gaantias obligatorias. 
+Caucion en mercado de capitales y plazo fijo en entidad bancaria.
+La tasa de interés del caucion se determina la tasa con poca oscilación.
 
+Caucion es ganancia fija, bajo riesgo y poco rentable, accesible, y liquidez y volumen.
+70% Caucion y 81% plazo fijo rendimientos anuales.
