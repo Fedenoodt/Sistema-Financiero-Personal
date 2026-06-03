@@ -169,5 +169,9 @@ Dolar MEP es un bono que se compra en pesos y vende en dólares, y viceversa.
 # Caución
 Instrumento de corto plazo para harantzar valores negociables (un prestamo parecido a plazo fijo).
 
-Se usa coml un bono, poniendo garantías negociables.
+Se usa como un bono, poniendo garantías negociables.
+
+Diferencias con plazos fijos
+
+Caucion solo hasta 120 días.
 
