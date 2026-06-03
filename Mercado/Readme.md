@@ -148,4 +148,6 @@ El bono se usa para declarar estas variables.
 
 Hay legislación que los regula.
 
+# ¿Porque renta fija?
 
+Alta certeza en los terminos, alta liquidez, buen flujo de pagos y monedas claras.
