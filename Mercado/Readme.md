@@ -1,4 +1,4 @@
-28-05-2026
+).e28-05-2026
 
 # ¿Que es el mercado?
 
@@ -166,3 +166,5 @@ o
 el mercadonsecundario comprando a un inversor.
 
 Dolar MEP es un bono que se compra en pesos y vende en dólares, y viceversa.
+# Caución
+Instrumento de corto plazo para harantzar valores negociables (un prestamo parecido a plazo fijo).
