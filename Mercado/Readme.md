@@ -158,3 +158,9 @@ Bonos Cupon cero pagan solo al final, y se emiten con valor menor.
 
 Las condiciones de emisión son Bonos pesos, bono dolar linked (liqui), bono hard dolar pagan interés y amortización en dólares. Bonos CER está atafo al CER que están ligados a la inflación. Bagdar están ligados a la tasas de interés de plazos fijos. Dual es invertir en CER y el tipo electo.
 
+# ¿Como participo?
+
+Adquirir el bonk al inicio.enttando en el mercado primario
+o 
+el mercadonsecundario comprando a un inversor.
+
