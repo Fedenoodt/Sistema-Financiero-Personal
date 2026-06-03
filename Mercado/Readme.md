@@ -126,3 +126,12 @@ Contratos financieros cuyo valor deriva de otro activo (acciones, dólar, commod
 
 02-06-3026
 
+# Renta fija: 
+
+Son emisiones de deuda, ente privado o publico por financiar proyectos. Con propias condiciones de emisión.
+
+# Diferencia con renta variable.
+
+la fija compro deuda a emisor de la deuda, y con acciones compro partecita de empresa.
+
+En renta variable hay menos riesgo.
