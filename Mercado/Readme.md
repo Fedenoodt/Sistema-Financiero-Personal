@@ -145,3 +145,7 @@ Cupón: lo que pagan.
 Plazo: cusnto van a tardar.
 
 El bono se usa para declarar estas variables.
+
+Hay legislación que los regula.
+
+
