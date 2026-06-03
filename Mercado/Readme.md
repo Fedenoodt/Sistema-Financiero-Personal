@@ -135,3 +135,13 @@ Son emisiones de deuda, ente privado o publico por financiar proyectos. Con prop
 la fija compro deuda a emisor de la deuda, y con acciones compro partecita de empresa.
 
 En renta variable hay menos riesgo.
+
+En un plazo fijo se parece a la fija, pero tengl slgo de renfimiento y el plazo de tiempo.
+
+El bono tiene tres partes.
+
+valor nominal: ek rmisor quién pide esta plata.
+Cupón: lo que pagan.
+Plazo: cusnto van a tardar.
+
+El bono se usa para declarar estas variables.
