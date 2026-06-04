@@ -200,3 +200,5 @@ No decidimos sobre las inversiones, lo hace un profesional.
 Liquidez. Podés obtener tu dinero brevemente.
 Diversificación. En tu cartera hay variedad justa.
 Accesibilidad. Podés elegir con cuanto entrar. Rescatas en una sola moneda.
+
+Los fondos no tienen fecha de vencimiento.
