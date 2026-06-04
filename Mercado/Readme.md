@@ -191,4 +191,6 @@ A estos profesionales es muy importante elegirlos, ya que son quienes gestionan 
 
 El fondo tiene costo transparente. Porque cuando vos adquirís el servicio, el coste de entrada ya está incluído. No es commprar un "producto" es comprar una "gestión".
 Los fondos suelen estar extensamente repartidos en distintos bienes. 
-Es imperativo leer el prospecto de que ofrece dicho fondo.
+Es imperativo leer el prospecto de que ofrece dicho fondo, su reglamento de gestión.
+
+Es muy importante conocer mi perfil de inversor, concervador, moderado, agresivo.
