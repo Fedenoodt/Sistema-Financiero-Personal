@@ -202,3 +202,6 @@ Diversificación. En tu cartera hay variedad justa.
 Accesibilidad. Podés elegir con cuanto entrar. Rescatas en una sola moneda.
 
 Los fondos no tienen fecha de vencimiento.
+
+# ¿Es útil?
+
