@@ -214,3 +214,4 @@ La sociedad gerente es quien toma todas las decisiones de hacer crecer esos fond
 La sociedad depositaria es quién se encarga de custodiar esos fondos.
 
 Esta gente invierte en fondos negociables aprobados por CNV, y no pueden hacer "lo que quieran" con ese capital. Solo activos.
+El precio de la cuotaparte, es decir, de los fondos tuyos en crecimiento, se determina por el patrimonio neto de la administración del fondo con respecto a la cantidad de cuotapartes en circulación. Es decir, que con todo lo que tienen, hacer un gran fondo que potencia tu inversión proporcionalmente.
