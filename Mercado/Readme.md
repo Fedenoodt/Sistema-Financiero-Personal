@@ -194,3 +194,9 @@ Los fondos suelen estar extensamente repartidos en distintos bienes.
 Es imperativo leer el prospecto de que ofrece dicho fondo, su reglamento de gestión.
 
 Es muy importante conocer mi perfil de inversor, concervador, moderado, agresivo.
+
+Ventajas:
+No decidimos sobre las inversiones, lo hace un profesional.
+Liquidez. Podés obtener tu dinero brevemente.
+Diversificación. En tu cartera hay variedad justa.
+Accesibilidad. Podés elegir con cuanto entrar. Rescatas en una sola moneda.
