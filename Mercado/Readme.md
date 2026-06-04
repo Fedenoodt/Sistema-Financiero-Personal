@@ -187,3 +187,8 @@ A día de la fecha, los rendimientos anuales son 70% Caucion y 81% plazo fijo.
 Un FCI es un espacio donde una sociedad gerente con profesionales gestiona mi inversión para devolver un retorno.
 Este está conformado por los activos del fondo. Pueden ser acciones, bonos u otros como creditos e inmuebles.
 La sociedad gerente lo hace conociendo todo tipo de activos regulados en lo que se llama el reglamento de gestión. El poliomanager es ese profesional.
+A estos profesionales es muy importante elegirlos, ya que son quienes gestionan tus ahorros. Si tenés un perfil conservador, te van a llevar a lo que se llama el Money Market, que es un espacio muy adverso al riesgo e inclinado a la ganancia. Este suele tener una mayoría de activos en renta fija. Contrario a activos de riesgo en renta variable.
+
+El fondo tiene costo transparente. Porque cuando vos adquirís el servicio, el coste de entrada ya está incluído. No es commprar un "producto" es comprar una "gestión".
+Los fondos suelen estar extensamente repartidos en distintos bienes. 
+Es imperativo leer el prospecto de que ofrece dicho fondo.
