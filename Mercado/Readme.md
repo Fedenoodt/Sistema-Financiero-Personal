@@ -184,3 +184,6 @@ A día de la fecha, los rendimientos anuales son 70% Caucion y 81% plazo fijo.
 
 4-6-2026
 
+Un FCI es un espacio donde una sociedad gerente con profesionales gestiona mi inversión para devolver un retorno.
+Este está conformado por los activos del fondo. Pueden ser acciones, bonos u otros como creditos e inmuebles.
+La sociedad gerente lo hace conociendo todo tipo de activos regulados en lo que se llama el reglamento de gestión. El poliomanager es ese profesional.
