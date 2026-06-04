@@ -181,3 +181,6 @@ La tasa de interés del caucion se determina la tasa con poca oscilación.
 Caucion es ganancia fija, bajo riesgo y poco rentable, accesible, y liquidez y volumen.
 
 A día de la fecha, los rendimientos anuales son 70% Caucion y 81% plazo fijo.
+
+4-6-2026
+
