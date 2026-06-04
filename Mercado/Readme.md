@@ -206,3 +206,9 @@ Los fondos no tienen fecha de vencimiento.
 # ¿Es útil?
 
 Siempre. Sobre todo por la diversificación. Pero todo depende de los precios. Toda la informacióm está en CNV es verídico y argentino.
+
+# Ecosistema FCI
+
+Estan los ALyC/ACDI (Agentes de colocación integral) que es quién puede recibir ese dinero.
+La sociedad gerente es quien toma todas las decisiones de hacer crecer esos fondos.
+La sociedad depositaria es quién se encarga de custodiar esos fondos.
