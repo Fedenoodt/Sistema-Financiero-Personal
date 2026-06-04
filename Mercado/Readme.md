@@ -205,3 +205,4 @@ Los fondos no tienen fecha de vencimiento.
 
 # ¿Es útil?
 
+Siempre. Sobre todo por la diversificación. Pero todo depende de los precios. Toda la informacióm está en CNV es verídico y argentino.
