@@ -215,3 +215,12 @@ La sociedad depositaria es quién se encarga de custodiar esos fondos.
 
 Esta gente invierte en fondos negociables aprobados por CNV, y no pueden hacer "lo que quieran" con ese capital. Solo activos.
 El precio de la cuotaparte, es decir, de los fondos tuyos en crecimiento, se determina por el patrimonio neto de la administración del fondo con respecto a la cantidad de cuotapartes en circulación. Es decir, que con todo lo que tienen, hacer un gran fondo que potencia tu inversión proporcionalmente.
+
+Los fondos de inversión son útiles dependiendo de que compra el inversor.
+
+Money Market bajo riesgo y bajo rendimiento. Liquidez inmediata y cauciones de grán volúmen.
+Renta fija. Bonos, letras, obligaciones negociables. Doy el dinero y se invierte en renta fija.
+Renta Mixta. Rentas fijas y variables. En riesgo minimizado y eficiente.
+Renta variable. Rentabilidad con riesgo.
+
+Se puede usar una moneda sea peso o dólar.
