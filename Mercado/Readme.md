@@ -224,3 +224,12 @@ Renta Mixta. Rentas fijas y variables. En riesgo minimizado y eficiente.
 Renta variable. Rentabilidad con riesgo.
 
 Se puede usar una moneda sea peso o dólar.
+
+Documentación ofrecida por fondos.
+
+# Factsheet
+Dar info de estadistica del fondo, rendimientom y cuotaparte.
+# Reglamento de gestión
+Sus terminos y condiciónes regulados
+# Calificación de riesgo
+Analiza los riesgos y su calidad, con devolución de calificacióon, su patrimonio neto, rentabilidad historica, y entorno macroeconómico.
