@@ -233,3 +233,5 @@ Dar info de estadistica del fondo, rendimientom y cuotaparte.
 Sus terminos y condiciónes regulados
 # Calificación de riesgo
 Analiza los riesgos y su calidad, con devolución de calificacióon, su patrimonio neto, rentabilidad historica, y entorno macroeconómico.
+
+El rendimiento de un fondo puede ser negativo.
