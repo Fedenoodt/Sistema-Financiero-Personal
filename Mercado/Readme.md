@@ -243,3 +243,13 @@ Fondos tienen riesgo, plazos no.
 Plazoos fijos no diversifican, fondos si
 Un profesional invierte en fondos, en plazos va uno mismo.
 Rendimiento variable en fondo, y en plazos, fijo.
+
+Con la caución es similar.
+
+# Las billeteras virtuales en FCI.
+
+Plataforma digital que permite realizar transacciones, y tiene una cuenta remunerada, que es la generación de ingresos en fondos de money market.
+
+Un truco para ver si una inversión dá rédito, es calcular su rendimiento en cierto tiempo menor, en un año, y cálcular el porcentaje.
+
+Invertir: Abrir comotente con Alyc, consultamos a Byma, ingresar dinero a comitente y suscribir o rescatar, con el perfil saber en que fondos invertir.
