@@ -235,3 +235,11 @@ Sus terminos y condiciónes regulados
 Analiza los riesgos y su calidad, con devolución de calificacióon, su patrimonio neto, rentabilidad historica, y entorno macroeconómico.
 
 El rendimiento de un fondo puede ser negativo.
+# Plazo Fijo vs FCI
+
+30 días el plazo, y FCI sin fecha.
+Plazo fijo garantiza taza, fondos no.
+Fondos tienen riesgo, plazos no.
+Plazoos fijos no diversifican, fondos si
+Un profesional invierte en fondos, en plazos va uno mismo.
+Rendimiento variable en fondo, y en plazos, fijo.
