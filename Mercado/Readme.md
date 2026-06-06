@@ -272,5 +272,7 @@ El riesgo es que esta no se de como lo esperado.
 
 # ¿Como podemos estar expuestos al riesgo?
 
-Puede ser por la moneda que elegimos para el contexto, la fluctuacion de cambio, el emisor, por sector economico, por benchmark (renta variable y fija, y otros).
+Puede ser por la moneda que elegimos para el contexto (dolar o peso), la fluctuacion de cambio, el emisor (soberano, sub-soberano, corpoorativo), por sector economico, por benchmark (renta variable y fija, y otros).
 
+La diversificacion es dividir esos fondos en distintos activos. Eso reduce el riesgo.
+Elegir el sector que haga que nos sintamos más seguros, puede ayudar a reducir el riesgo.
