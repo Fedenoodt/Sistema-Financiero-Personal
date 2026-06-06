@@ -253,3 +253,6 @@ Plataforma digital que permite realizar transacciones, y tiene una cuenta remune
 Un truco para ver si una inversión dá rédito, es calcular su rendimiento en cierto tiempo menor, en un año, y cálcular el porcentaje.
 
 Invertir: Abrir comotente con Alyc, consultamos a Byma, ingresar dinero a comitente y suscribir o rescatar, con el perfil saber en que fondos invertir.
+
+5-6-2026
+
