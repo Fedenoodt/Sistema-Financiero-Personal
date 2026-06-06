@@ -256,3 +256,21 @@ Invertir: Abrir comotente con Alyc, consultamos a Byma, ingresar dinero a comite
 
 5-6-2026
 
+Una cartera de activos es una combinacion de activos que son afines al perfil del inversor. 
+Ahorro es separar ingresos para usar en futuro. Mientras que en inversion buscamos incrementar.
+
+Pensar para que invertimos es importante. No es lo mismo usar ese dinero para una u otra cosa. De acuerdo al tiempo varía la volatilidad del producto.
+
+Cartera o portafolio son sinónimos.
+
+Podés tener varios objetivos y diferentes carteras.
+
+Rentabilidad es lo que se obtiene de la inversion. 
+Rentabilidad esperada: Lo que puede rendir.
+Rentabilidad Efectiva: Lo que rindió.
+El riesgo es que esta no se de como lo esperado.
+
+# ¿Como podemos estar expuestos al riesgo?
+
+Puede ser por la moneda que elegimos para el contexto, la fluctuacion de cambio, el emisor, por sector economico, por benchmark (renta variable y fija, y otros).
+
