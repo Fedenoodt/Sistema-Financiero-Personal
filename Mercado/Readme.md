@@ -312,7 +312,7 @@ Estudiar el punto en los cíclos económicos en el que estamos también es funda
 
 Para cuidarnos, nos diversificamos.
 Tomar acciones diferentes en funcion de que pasa.
-Más crecimiento económico: Menos acciones, comodities, y bonos corporativos.
-Menos inflación: Menos acciones, bonos de tasa fija, y efectivo.
-Menos crecimiento económico: Menos títulos públicos, y bonos corporativos de largo plazo.
-Más inflación: Menos bonos ajustables por inflación, menos comodities y bienes raíces.
+Más crecimiento económico: Más acciones, comodities, y bonos corporativos.
+Menos inflación: Más acciones, bonos de tasa fija, y efectivo.
+Menos crecimiento económico: Más títulos públicos, y bonos corporativos de largo plazo.
+Más inflación: Más bonos ajustables por inflación, menos comodities y bienes raíces.
