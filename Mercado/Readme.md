@@ -307,3 +307,5 @@ Esto nos ayuda a entender como la historia nos sirve para entender cierta previs
 
 Las empresas defensivas son las que tienen demandas estables, y no les afecta demasiado el cíclo.
 Mientras que las cíclicas si les afecta.
+
+Estudiar el punto en los cíclos económicos en el que estamos también es fundamental.
