@@ -326,3 +326,9 @@ Analizar que tipos de inversor soy.
 ¿Cual es el horizonte temporal de la inversión? Corto (<3 años), mediano (3 a 5 años), o largo (>5 años) plazo.
 
 ¿Que tan importante es la seguridad de su inversión? Muy, algo, o no tán importante.
+
+¿Que tan cómodo se siente con el riesgo en sus inversiones? poco riesgo y baja rentabilidad, neutro, mucho riesgo y alta rentabilidad.
+
+¿Que tanto sabes de inversiones? Poco, algo, bastante.
+
+¿Cuál es el objetivo para la inversión?
