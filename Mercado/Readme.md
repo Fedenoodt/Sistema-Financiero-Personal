@@ -331,6 +331,6 @@ Analizar que tipos de inversor soy.
 
 ¿Que tanto sabes de inversiones? Poco, algo, bastante.
 
-¿Cuál es el objetivo para la inversión?
+¿Cuál es el objetivo para la inversión? Compra a corto plazo, objetivo de mediano plazo, jubilación o libertad financiera.
 
 Este test condiciona nuestroo perfil en la plataforma de BYMA.
