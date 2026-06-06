@@ -291,5 +291,7 @@ Titulos fijos.
 
 El Bono dual combina dos bonos. Cobras CER o Dólar Linked dependiendo donde esté la rentabilidad.
 
-Es importante saber a que le querés invertir y para que. "Una meta sin un plan es solo un deseo."
-Hacerse preguntas ¿En que moneda? ¿En cuanto tiempo? ¿Que tasa de interés paga y cada cuanto? ¿Cada cuanto paga la amortización? ¿Cual es la historia de esa inversion?
+Es importante saber a que le querés invertir y para que. "Una meta sin un plan es solo un deseo." Antoine Saint-Exupéry
+Hacerse preguntas ¿En que moneda? ¿En cuanto tiempo? ¿Que tasa de interés paga y cada cuanto? ¿Cada cuanto paga la amortización? ¿Cual es la historia de esa inversion? ¿Que beneficios fiscales hay? ¿Podré vender lo que compré? ¿Que condición hay para pagar? ¿Que comisiones tiene? ¿Cuál es el peor escenario posible de riesgo?
+
+Para que funcione, tiene que estar respondidas todas las preguntas de manera disciplinada.
