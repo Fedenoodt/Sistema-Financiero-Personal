@@ -316,3 +316,5 @@ Más crecimiento económico: Más acciones, comodities, y bonos corporativos.
 Menos inflación: Más acciones, bonos de tasa fija, y efectivo.
 Menos crecimiento económico: Más títulos públicos, y bonos corporativos de largo plazo.
 Más inflación: Más bonos ajustables por inflación, menos comodities y bienes raíces.
+
+Liquidez, riesgo y rentabilidad. La liquidez es pa agilidad de convertir la accion en dinero. los accoponistas que no quieren riesgo para conserven el capital, y la rentabilidad acerca al riesgo.
