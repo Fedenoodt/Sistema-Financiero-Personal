@@ -318,3 +318,11 @@ Menos crecimiento económico: Más títulos públicos, y bonos corporativos de l
 Más inflación: Más bonos ajustables por inflación, menos comodities y bienes raíces.
 
 Liquidez, riesgo y rentabilidad. La liquidez es pa agilidad de convertir la accion en dinero. los accoponistas que no quieren riesgo para conserven el capital, y la rentabilidad acerca al riesgo.
+
+# Test del inversor.
+
+Analizar que tipos de inversor soy.
+
+¿Cual es el horizonte temporal de la inversión? Corto (<3 años), mediano (3 a 5 años), o largo (>5 años) plazo.
+
+¿Que tan importante es la seguridad de su inversión? Muy, algo, o no tán importante.
