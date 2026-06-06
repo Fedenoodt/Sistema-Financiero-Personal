@@ -309,3 +309,10 @@ Las empresas defensivas son las que tienen demandas estables, y no les afecta de
 Mientras que las cíclicas si les afecta.
 
 Estudiar el punto en los cíclos económicos en el que estamos también es fundamental.
+
+Para cuidarnos, nos diversificamos.
+Tomar acciones diferentes en funcion de que pasa.
+Más crecimiento económico: Menos acciones, comodities, y bonos corporativos.
+Menos inflación: Menos acciones, bonos de tasa fija, y efectivo.
+Menos crecimiento económico: Menos títulos públicos, y bonos corporativos de largo plazo.
+Más inflación: Menos bonos ajustables por inflación, menos comodities y bienes raíces.
