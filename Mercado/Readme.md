@@ -295,3 +295,11 @@ Es importante saber a que le querés invertir y para que. "Una meta sin un plan 
 Hacerse preguntas ¿En que moneda? ¿En cuanto tiempo? ¿Que tasa de interés paga y cada cuanto? ¿Cada cuanto paga la amortización? ¿Cual es la historia de esa inversion? ¿Que beneficios fiscales hay? ¿Podré vender lo que compré? ¿Que condición hay para pagar? ¿Que comisiones tiene? ¿Cuál es el peor escenario posible de riesgo?
 
 Para que funcione, tiene que estar respondidas todas las preguntas de manera disciplinada.
+
+Existen ciclos económicos que representan como estamos como sociedad, y eso puede afectar a tus decisiones.
+
+En la expansión, el crecimiento pasa de ser negativo a positivo, y aumenta la actividad.
+En el auge, hay estabilidad en la máxima, llegando a neutralidad, y calma.
+La recesión es más lenta, y ya empieza a la baja y aumentan las tasas de interés.
+La depreción hace que el crecimiento económico pueda ser negativo llegando al piso, se implementan políticas de estímulo para cambiar el cíclo.
+
