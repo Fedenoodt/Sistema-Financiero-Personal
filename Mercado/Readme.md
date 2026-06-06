@@ -276,3 +276,17 @@ Puede ser por la moneda que elegimos para el contexto (dolar o peso), la fluctua
 
 La diversificacion es dividir esos fondos en distintos activos. Eso reduce el riesgo.
 Elegir el sector que haga que nos sintamos más seguros, puede ayudar a reducir el riesgo.
+Emisores soberanos y subsoberanos solo ofrecen renta fija. El Corporativo tanto fija comoo variable.
+
+Se puede clasificar a la rennta fija por ibligaciones negociables emitidas por las empresas, o los titulos públicos emitidos por los gobiernos.
+
+Obliugaciones negociables.
+
+Hard Dolar: Pagan renta en dolar billete.
+UVA: Deuda que ajustan su deuda con la unidad de valor adquisitivo relacionada con la inflacion
+Linked: Pagan renta y amortizacion ajustando al cambio oficial mayorista, publicado en BCRA.
+Bagdlar: Deuda que paga cupón en tasa variable.
+
+Titulos fijos.
+
+El Bono dual combina dos bonos. Cobras CER o Dólar Linked dependiendo donde esté la rentabilidad.
