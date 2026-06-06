@@ -290,3 +290,6 @@ Bagdlar: Deuda que paga cupón en tasa variable.
 Titulos fijos.
 
 El Bono dual combina dos bonos. Cobras CER o Dólar Linked dependiendo donde esté la rentabilidad.
+
+Es importante saber a que le querés invertir y para que. "Una meta sin un plan es solo un deseo."
+Hacerse preguntas ¿En que moneda? ¿En cuanto tiempo? ¿Que tasa de interés paga y cada cuanto? ¿Cada cuanto paga la amortización? ¿Cual es la historia de esa inversion?
