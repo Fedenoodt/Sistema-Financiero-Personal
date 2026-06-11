@@ -336,3 +336,7 @@ Analizar que tipos de inversor soy.
 Este test condiciona nuestroo perfil en la plataforma de BYMA.
 
 11-6-2026
+
+# ¿Como llega uno a invertir? 
+
+Es muy simple. Entra uno a BYMA, y busca los Alycs que están disponibles para operar. Estos alycs completan el perfil del inversor, 
