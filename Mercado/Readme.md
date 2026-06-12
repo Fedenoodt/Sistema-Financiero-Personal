@@ -292,7 +292,7 @@ Titulos fijos.
 El Bono dual combina dos bonos. Cobras CER o Dólar Linked dependiendo donde esté la rentabilidad.
 
 Es importante saber a que le querés invertir y para que. "Una meta sin un plan es solo un deseo." Antoine Saint-Exupéry
-Hacerse preguntas ¿En que moneda? ¿En cuanto tiempo? ¿Que tasa de interés paga y cada cuanto? ¿Cada cuanto paga la amortización? ¿Cual es la historia de esa inversion? ¿Que beneficios fiscales hay? ¿Podré vender lo que compré? ¿Que condición hay para pagar? ¿Que comisiones tiene? ¿Cuál es el peor escenario posible de riesgo?
+Hacerse preguntas ¿En que moneda? ¿En cuanto tiempo? ¿Que tasa de interés paga y cada cuanto? ¿Cada cuanto paga la amortización? ¿Cual es la historia de esa inversion? ¿Que beneficios fiscales hay? ¿Podré vender lo que compré? ¿Que condición hay para pagar? ¿Que comisiones tiene? ¿Cuá Vl es el peor escenario posible de riesgo?
 
 Para que funcione, tiene que estar respondidas todas las preguntas de manera disciplinada.
 
@@ -340,3 +340,5 @@ Este test condiciona nuestroo perfil en la plataforma de BYMA.
 # ¿Como llega uno a invertir? 
 
 Es muy simple. Entra uno a BYMA, y busca los Alycs que están disponibles para operar. Estos alycs completan el perfil del inversor, 
+
+Viendo lo que cuentan en BYMA, operar los alycs es sencillo, pero hay que estar atento a los abrumadores datos de la operación.
